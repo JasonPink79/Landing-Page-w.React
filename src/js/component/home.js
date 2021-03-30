@@ -54,6 +54,9 @@ export function Home() {
 					);
 				})}
 			</div>
+			<div className="footer">
+				<p className="copyright">CopyRight @ Your Website 2021</p>
+			</div>
 		</div>
 	);
 }

@@ -31,3 +31,19 @@
     margin-top: 50px;
     margin-bottom: 50px;
 }
+
+.footer {
+    background: black;
+    width: 100%;
+    color: white;
+    position: absolute;
+    bottom: 0;     
+    height: 50px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.copyright {
+    margin:0;
+}
